@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://www.google.com/search?q=python&client=opera-gx&sca_esv=559545509&sxsrf=AB5stBhOcpqPCxaNc4gYaE--TZTgkHXAZA:1692833325445&tbm=isch&source=iu&ictx=1&vet=1&fir=hs-cfTjLDWwuFM%252C3wRBXLyvECcz0M%252C%252Fm%252F05z1_%253BwJ_8EiJgjRaS-M%252CbUDseR39sGstrM%252C_%253BScVqN6r3-Nhw3M%252CD3HgVGwizTVPMM%252C_%253BXmmuGvoln--UuM%252Ck36Oe0TGOvdiNM%252C_%253BjpSu05c7K8-dsM%252CLBST9_yLP6F9yM%252C_&usg=AI4_-kRKy3fNh_GKzyM-iWUvoBIuWxgu-w&sa=X&ved=2ahUKEwjIzZrI9_OAAxWQpJUCHQEDASoQ_B16BAhXEAE#imgrc=hs-cfTjLDWwuFM)">
 </div>
  
  <br>
