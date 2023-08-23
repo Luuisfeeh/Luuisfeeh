@@ -6,9 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luuisfeeh&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://www.google.com/search?q=python&client=opera-gx&sca_esv=559545509&sxsrf=AB5stBhOcpqPCxaNc4gYaE--TZTgkHXAZA:1692833325445&tbm=isch&source=iu&ictx=1&vet=1&fir=hs-cfTjLDWwuFM%252C3wRBXLyvECcz0M%252C%252Fm%252F05z1_%253BwJ_8EiJgjRaS-M%252CbUDseR39sGstrM%252C_%253BScVqN6r3-Nhw3M%252CD3HgVGwizTVPMM%252C_%253BXmmuGvoln--UuM%252Ck36Oe0TGOvdiNM%252C_%253BjpSu05c7K8-dsM%252CLBST9_yLP6F9yM%252C_&usg=AI4_-kRKy3fNh_GKzyM-iWUvoBIuWxgu-w&sa=X&ved=2ahUKEwjIzZrI9_OAAxWQpJUCHQEDASoQ_B16BAhXEAE#imgrc=hs-cfTjLDWwuFM)">
+  <img align="center" alt="ML" height="30" width="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdashgoo.com%2Fwp-content%2Fuploads%2F2018%2F10%2FMachine-learning-o-que-%25C3%25A9-e-por-que-%25C3%25A9-importante-1024x576.png&tbnid=Dr7UmvFOBjIsWM&vet=12ahUKEwjAyqT59_OAAxU1K7kGHacKAtgQMygZegUIARCuAQ..i&imgrefurl=https%3A%2F%2Fdashgoo.com%2Fmachine-learning-o-que-e-e-por-que-e-importante%2F&docid=XgZrMYHR2spvLM&w=1024&h=576&q=machine%20learning&client=opera-gx&ved=2ahUKEwjAyqT59_OAAxU1K7kGHacKAtgQMygZegUIARCuAQ">
+  <img align="center" alt="PYTHON" height="30" width="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1200px-Python-logo-notext.svg.png&tbnid=GoXB3tma5wjkyM&vet=12ahUKEwjMmNzp9_OAAxUPBbkGHSJ9CPoQMygBegQIARB3..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&docid=3wRBXLyvECcz0M&w=1200&h=1315&q=python&client=opera-gx&ved=2ahUKEwjMmNzp9_OAAxUPBbkGHSJ9CPoQMygBegQIARB3">
 </div>
  
  <br>
